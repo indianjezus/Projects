@@ -1,0 +1,1 @@
+model1 - trained off AAPL units = 128 drop = .2 4 LSTM layers adam MSE epochs=100 batch_size=32
